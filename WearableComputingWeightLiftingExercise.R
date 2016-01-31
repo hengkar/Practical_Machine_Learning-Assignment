@@ -1,13 +1,5 @@
 # Module 8
 
-setwd("C:/Users/hklau/Desktop/DataScienceClass/Module 8 - Practical Machine Learning/Assignment 1/")
-
-# Answer:
-# http://rstudio-pubs-static.s3.amazonaws.com/21224_6d2a9b4a3a9447db90a9d34b48a89644.html
-# https://rstudio-pubs-static.s3.amazonaws.com/21186_be938196b27943109667f0b6f8f672e8.html
-# https://rstudio-pubs-static.s3.amazonaws.com/28753_c3f068c4cced42ae8697070e34bbef12.html
-# http://xiaodanzhang.com/Coursera-PML-Quantified-Self-Project/report.html
-
 # Machine learning
 # Step 1: Train
 # Step 2: Predict
